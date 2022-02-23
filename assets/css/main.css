@@ -1333,9 +1333,9 @@ body.is-preload #bg:before {
     padding: 2rem 1rem;
   }
 
-  /* #bg:after {
-    background-image: url("/images/background-m.jpg");
-  } */
+  #bg:after {
+    background-image: url("/images/background-m.webp");
+  }
 
 }
 
