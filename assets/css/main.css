@@ -1,6 +1,7 @@
 
 @font-face {
 	font-family: "Source Sans";
+  font-display: swap;
 	src: url(/fonts/SourceSansPro-Regular.ttf) format('woff2');
 	src: url(/fonts/SourceSansPro-Regular.ttf) format('woff');
   }
